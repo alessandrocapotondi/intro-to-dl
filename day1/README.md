@@ -6,19 +6,19 @@
 
 Introduction to Notebooks, Keras fundamentals.
 
-* *01-tf2-test-setup.ipynb*<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csc-training/intro-to-dl/blob/master/day1/01-tf2-test-setup.ipynb)
+* *01-tf2-test-setup.ipynb*<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alessandrocapotondi/intro-to-dl/blob/main/day1/01-tf2-test-setup.ipynb)
 
 ### Exercise 2
 
 MNIST classification with MLPs.
 
-* *02-tf2-mnist-mlp.ipynb*<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csc-training/intro-to-dl/blob/master/day1/02-tf2-mnist-mlp.ipynb)
+* *02-tf2-mnist-mlp.ipynb*<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alessandrocapotondi/intro-to-dl/blob/main/day1/02-tf2-mnist-mlp.ipynb)
 
 <details><summary>Optional exercises</summary>
 
-* *pytorch-mnist-mlp.ipynb* (Pytorch version)<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csc-training/intro-to-dl/blob/master/day1/optional/pytorch-mnist-mlp.ipynb)
+* *pytorch-mnist-mlp.ipynb* (Pytorch version)<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alessandrocapotondi/intro-to-dl/blob/main/day1/optional/pytorch-mnist-mlp.ipynb)
 
-* *tf2-chd-mlp.ipynb* (Regression with MLPs)<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csc-training/intro-to-dl/blob/master/day1/optional/tf2-chd-mlp.ipynb)
+* *tf2-chd-mlp.ipynb* (Regression with MLPs)<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alessandrocapotondi/intro-to-dl/blob/main/day1/optional/tf2-chd-mlp.ipynb)
 
 </details>
 
@@ -26,21 +26,21 @@ MNIST classification with MLPs.
 
 Image classification with CNNs.
 
-* *03-tf2-mnist-cnn.ipynb*<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csc-training/intro-to-dl/blob/master/day1/03-tf2-mnist-cnn.ipynb)
+* *03-tf2-mnist-cnn.ipynb*<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alessandrocapotondi/intro-to-dl/blob/main/day1/03-tf2-mnist-cnn.ipynb)
 
 ### Exercise 4
 
 Text sentiment classification with RNNs.
 
-* *04-tf2-imdb-rnn.ipynb*<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csc-training/intro-to-dl/blob/master/day1/04-tf2-imdb-rnn.ipynb)
+* *04-tf2-imdb-rnn.ipynb*<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alessandrocapotondi/intro-to-dl/blob/main/day1/04-tf2-imdb-rnn.ipynb)
 
 <details><summary>Optional exercises</summary>
 
-* *tf2-aclImdb-bert.ipynb* (Text sentiment classification with BERT)<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csc-training/intro-to-dl/blob/master/day1/optional/tf2-aclImdb-bert.ipynb)
+* *tf2-aclImdb-bert.ipynb* (Text sentiment classification with BERT)<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alessandrocapotondi/intro-to-dl/blob/main/day1/optional/tf2-aclImdb-bert.ipynb)
 
-* *tf2-imdb-cnn.ipynb* (Text sentiment classification with CNNs)<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csc-training/intro-to-dl/blob/master/day1/optional/tf2-imdb-cnn.ipynb)
+* *tf2-imdb-cnn.ipynb* (Text sentiment classification with CNNs)<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alessandrocapotondi/intro-to-dl/blob/main/day1/optional/tf2-imdb-cnn.ipynb)
 
-* *tf2-mnist-rnn.ipynb* (MNIST classification with RNNs)<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csc-training/intro-to-dl/blob/master/day1/optional/tf2-mnist-rnn.ipynb)
+* *tf2-mnist-rnn.ipynb* (MNIST classification with RNNs)<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alessandrocapotondi/intro-to-dl/blob/main/day1/optional/tf2-mnist-rnn.ipynb)
 
 </details>
 
@@ -83,20 +83,20 @@ The notebook sessions have a limited time (8h) after which they, and any data or
 
 If you have a laptop that has both jupyter and the other necessary python packages installed, it is possible to use it. In particular, if the laptop has an Nvidia GPU and it that has been properly set up (CUDA, cuDNN).
 
-* `git clone https://github.com/csc-training/intro-to-dl.git`   
+* `git clone https://github.com/alessandrocapotondi/intro-to-dl.git`   
 * try to run the `day1/01-tf2-test-setup.ipynb` notebook without errors
 
 ### 3. Google Colaboratory
 
 Google has a free Jupyter Notebooks service you may want to try out. No guarantees, but it does have GPUs available! A Google account is needed to use Colaboratory. 
 
-* Click the corresponding colab link above in this document (https://github.com/csc-training/intro-to-dl/tree/master/day1/README.md)
+* Click the corresponding colab link above in this document (https://github.com/alessandrocapotondi/intro-to-dl/tree/master/day1/README.md)
 * If needed, sign in to your Google account using the "Sign in" button in the top-right corner
 * To use a GPU, select: Runtime => Change runtime type => Hardware accelerator: GPU
 
 OR
 
-* Point your browser to https://github.com/csc-training/intro-to-dl/tree/master/day1 
+* Point your browser to https://github.com/alessandrocapotondi/intro-to-dl/tree/master/day1 
 * Select a notebook file
 * At the end of the file, there is a link: “Run this notebook in Google Colaboratory using this link”
 * If needed, sign in to your Google account using the "Sign in" button in the top-right corner
